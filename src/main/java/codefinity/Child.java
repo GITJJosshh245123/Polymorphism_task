@@ -8,4 +8,5 @@ package codefinity;
 
 public class Child extends Parent {
     // override and overload Parent's method
+    printLn("This is the overloaded method with int parameter: " + parameter)
 }
